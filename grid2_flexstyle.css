@@ -1,0 +1,21 @@
+.flex_container_2{
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    column-gap: 6px;
+}
+.flex_item_2{
+    border: 1px solid rgb(204, 0, 255);
+    height: 40px;
+}
+#search{
+    width: 250px;
+
+}
+#notify{
+    width: 40px;
+}
+#profile{
+    width: 40px;
+}

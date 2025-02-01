@@ -1,0 +1,12 @@
+.grid_container{
+    border: 1px solid black;
+    display: grid;
+    padding: 4px;
+    grid-template-columns: minmax(100px,auto)  minmax(1000px,auto);
+    grid-template-rows:minmax(50px,auto) minmax(75vh,auto);
+    height: 95vh;
+
+}
+.grid_item{
+    border: 1px solid red;
+}
